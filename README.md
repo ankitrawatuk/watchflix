@@ -2,6 +2,20 @@
 
 ![Logo](https://github.com/ankitrawatuk/watchflix/blob/main/watchss/Screenshot%20(9).png?raw=true)
 
+# Categories #
+Find diffrent varities of movies like Horror, Comedy, Romantic, Action, Sci-Fi and many more.
+
+![Category](https://github.com/ankitrawatuk/watchflix/blob/main/watchss/Screenshot%20(10).png?raw=true)
+
+You will get review and other options for movie like play, download, select to wAtchlist, imdb rating etc.
+
+![About](https://github.com/ankitrawatuk/watchflix/blob/main/watchss/Screenshot%20(10).png?raw=true)
+
+Also user can watch Trailer of selected movie by play button (Trailers Source : YouTube)
+
+![Trailer](![Alt Text](relative/path/to/image.png)
+
+
 
 To check my project live click the link below
 
