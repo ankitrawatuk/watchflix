@@ -1,5 +1,8 @@
 # WatchFlix
 
+![Logo](https://github.com/ankitrawatuk/watchflix/blob/main/watchss/Screenshot%20(9).png?raw=true)
+
+
 To check my project live click the link below
 
 https://watch-flix-rooghz.vercel.app/
