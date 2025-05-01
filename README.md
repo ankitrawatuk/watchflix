@@ -1,5 +1,7 @@
 # WatchFlix
 
+To check my project live click the link below
+
 https://watch-flix-rooghz.vercel.app/
 
 Categories Page - https://watch-flix-rooghz.vercel.app/categories
